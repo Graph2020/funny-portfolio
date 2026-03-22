@@ -7,6 +7,7 @@ const App = () => {
     <div className="container mx-auto max-w-7xl">
       <Navbar />
       <Hero />
+      <section className="min-h-screen bg-black w-full"></section>
     </div>
   );
 };

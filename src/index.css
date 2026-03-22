@@ -55,6 +55,10 @@ body {
   overflow-x: hidden;
 }
 
+@utility images-placement {
+  @apply absolute inset-0;
+}
+
 .c-space {
   @apply sm:px-10 px-5 lg:px-15;
 }
